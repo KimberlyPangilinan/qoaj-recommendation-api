@@ -1,5 +1,5 @@
 flask
-gunicorn>=20.1.0
+gunicorn>=25.3.0
 nltk
 scikit-learn
 flask-cors
